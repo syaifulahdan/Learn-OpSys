@@ -12,7 +12,7 @@
 |No| Title | Author| Action |
 | --- | --- | --- | --- |
 | <p align="center">1</p> | <b>Operating System Concepts — 10th Edition </b> | This page contains the source code examples for the 10th edition of Operating System Concepts. | [[read]](https://cs.westminstercollege.edu/~greg/osc10e/index.html)|
-| <p align="center">**1**</p> | **Back**  | [[ .... ]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/README.md)|  
+| <p align="center">**1**</p> | **Back**  | | [[ .... ]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/README.md)|  
 
 
 <!--  contoh menghilangkan teks  -->
