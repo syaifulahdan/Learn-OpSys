@@ -6,6 +6,10 @@
 | --- | --- | --- | --- |
 | <p align="center">1</p> | <b>Operating System Concepts Tenth Edition </b> |Avi Silberschatz,Peter Baer Galvin, Greg Gagne | [[read]](https://www.os-book.com/OS10/index.html)|
 | <p align="center">1</p> | <b>Operating System Concepts Essentials Second Edition </b> |Avi Silberschatz,Peter Baer Galvin, Greg Gagne | [[read]](https://www.os-book.com/OSE2/index.html)|
+| <p align="center">1</p> | <b>Operating System Concepts Essentials Second Edition </b> |Avi Silberschatz,Peter Baer Galvin, Greg Gagne | [[read]](https://www.os-book.com/OSE2/index.html)|
+
+| <p align="center">1</p> | <b> Operating System Concepts with Java Eight Edition</b> |Avi Silberschatz,Peter Baer Galvin, Greg Gagne | [[read]](https://www.os-book.com/OS8/os8j/index.html)|
+
 
 
 <!--  contoh menghilangkan teks  -->
