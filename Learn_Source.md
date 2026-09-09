@@ -11,7 +11,7 @@
 
 |No| Title | Author| Action |
 | --- | --- | --- | --- |
-| <p align="center">1</p> | <b>Operating System Concepts — 10th Edition </b> |Avi Silberschatz,Peter Baer Galvin, Greg Gagne | [[read]](https://www.os-book.com/OS10/index.html)|
+| <p align="center">1</p> | <b>Operating System Concepts — 10th Edition </b> | This page contains the source code examples for the 10th edition of Operating System Concepts. | [[read]](https://cs.westminstercollege.edu/~greg/osc10e/index.html)|
 
 <!--  contoh menghilangkan teks  -->
 
